@@ -24,3 +24,10 @@
 2. Function borrowing
 3. Archive static function in JS
 4. Monkey patching
+
+## Lecture 4
+
+1. Array manipulation
+2. Object manipulation
+3. Serialization and Deserialization
+4. ECMAScript introduction
