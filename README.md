@@ -38,3 +38,11 @@
 2. Spread operator
 3. Rest operator
 4. Classes in JS
+
+## Lecture 6
+
+1. Inheritance of Class and Array
+2. Method Hiding, Private Property,
+3. Leveraging Existing Type, Validation, Event Driven Programming
+4. Const keyword
+5. Understanding Inheritance in ES6
