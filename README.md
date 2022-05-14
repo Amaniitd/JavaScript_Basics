@@ -31,3 +31,10 @@
 2. Object manipulation
 3. Serialization and Deserialization
 4. ECMAScript introduction
+
+## Lecture 5
+
+1. Array and Object destructuring
+2. Spread operator
+3. Rest operator
+4. Classes in JS
