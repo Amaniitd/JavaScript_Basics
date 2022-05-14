@@ -101,7 +101,7 @@ function Product(name, brand) {
 // the problem is "this" pointer will changing the location
 
 // How to fix this?
-// Use "self" keyword
+// store the location of the object in the variable "self"
 
 function Product(name, brand) {
     this.name = name;
