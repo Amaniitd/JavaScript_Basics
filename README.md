@@ -46,3 +46,11 @@
 3. Leveraging Existing Type, Validation, Event Driven Programming
 4. Const keyword
 5. Understanding Inheritance in ES6
+
+## Lecture 7
+
+1. Arrow function
+2. Object Literal
+3. Notations
+4. Async Function
+5. Promises
