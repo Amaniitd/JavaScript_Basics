@@ -60,3 +60,7 @@
 1. ES6 modules
 2. Configuring Webpack
 3. ES6 Import and Export
+
+### Credits
+
+[Application Library Engineering Group](http://applibgroup.github.io/)
