@@ -54,3 +54,9 @@
 3. Notations
 4. Async Function
 5. Promises
+
+## Lecture 8
+
+1. ES6 modules
+2. Configuring Webpack
+3. ES6 Import and Export

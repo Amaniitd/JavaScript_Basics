@@ -1,0 +1,11 @@
+
+install node.js
+
+open node cmd
+
+npm install -g webpack
+npm install -g webpack-cli
+
+or 
+
+npm install -g webpack webpack-cli
